@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: function
+# key: function3
+# --
+def ${1:function}(${2:args}):
+    print("from function $1")
+    $0

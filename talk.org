@@ -1,0 +1,22 @@
+* Bit of history
+
+* Some stats
+
+- 383 github stars
+- 284 forks
+- 98 contributors
+
+* Snippets intro
+
+- yasnippet
+
+
+
+* More Magic
+
+* Elisp in the mix
+
+* Packaging
+
+https://github.com/melpa/melpa/pull/4904/files
+https://github.com/AndreaCrotti/yasnippet-snippets/pull/203

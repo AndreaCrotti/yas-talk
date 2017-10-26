@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: function
+# key: function2
+# --
+def myfunc(${1:args}):
+    ${2:body}
+    $0
