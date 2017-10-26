@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: capitalize
+# key: cap
+# --
+
+# Emacs has been up `(emacs-uptime)`
+
+print("hello ${1:user}")
+print("hello ${1:$(capitalize yas-text)}")
+
